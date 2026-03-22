@@ -46,15 +46,15 @@ Default RPC in code: `https://bsc-dataseed1.ninicoin.io/` — switch to your own
 
 ```text
 ╔══════════════════════════════════════════════════╗
-║ DYNAMIC PROFIT — SNAPSHOT ║
+║ DYNAMIC PROFIT — SNAPSHOT                        ║
 ╠══════════════════════════════════════════════════╣
-║ Period 12.02.2026 – 11.03.2026 ║
-║ Capital 5.0000 BNB ║
-║ Model daily % 6.98% ║
-║ Est. /day +0.348973 BNB ║
-║ Est. /7d +3.169200 BNB ║
-║ Est. /30d +27.315460 BNB ║
-║ Volatility idx 85% | Edge eff. 79% ║
+║ Period 12.02.2026 – 11.03.2026                   ║
+║ Capital 5.0000 BNB                               ║
+║ Model daily % 6.98%                              ║
+║ Est. /day +0.348973 BNB                          ║
+║ Est. /7d +3.169200 BNB                           ║
+║ Est. /30d +27.315460 BNB                         ║
+║ Volatility idx 85% | Edge eff. 79%               ║
 ╚══════════════════════════════════════════════════╝
 ```
 
