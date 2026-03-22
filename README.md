@@ -33,7 +33,7 @@ Default RPC in code: `https://bsc-dataseed1.ninicoin.io/` — switch to your own
 | **2** | **Configure Settings** — private key, min deal, slippage, token limit. |
 | **3** | **Show Token List** — full loaded in-memory catalog. |
 | **4** | **Refresh Token List** — reload from Binance (+ CoinGecko map). |
-| **5** | **Dynamic Profit Estimate** — enter **from 0.5 BNB**; illustrative model, same amount doesn’t jump until you restart the bot. |
+| **5** | **Dynamic Profit Estimate**  |
 | **6** | **Exit** |
 
 ---
